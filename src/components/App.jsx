@@ -1,7 +1,8 @@
 import React from "react";
 import Profile from "./Profile/Profile";
 import userData from "../userData.json";
-import FriendList from "./FriendList/FriendListItem";
+import FriendList from "./FriendList/FriendList";
+import FriendListItem from "./FriendList/FrendListItem/FriendListItem";
 import friends from "../friends.json";
 
 const App = () => {
